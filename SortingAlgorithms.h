@@ -1,0 +1,14 @@
+//
+// Created by zenia on 06.10.2021.
+//
+
+#ifndef SORTINGALGORITHMS_SORTINGALGORITHMS_H
+#define SORTINGALGORITHMS_SORTINGALGORITHMS_H
+
+
+class SortingAlgorithms {
+
+};
+
+
+#endif //SORTINGALGORITHMS_SORTINGALGORITHMS_H
